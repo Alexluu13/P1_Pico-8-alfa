@@ -1,4 +1,4 @@
-# projet-collectif---pico-8-pico-8-alfa
+# P1_Pico-8-alfa
 
 <p><img align="center" alt="" src="https://github.com/Alexluu13/Pico-8-alfa/blob/master/Pico-8.png" width="500" height="350" /></p>
 
