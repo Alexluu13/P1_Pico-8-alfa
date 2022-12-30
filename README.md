@@ -2,7 +2,7 @@
 
 <p>Ce projet collectif est basé sur la création d'un jeu vidéo codé en Lua.</p> 
 
-<p><img align="center" alt="" src="https://github.com/Alexluu13/Pico-8-alfa/blob/master/Pico-8.png" width="500" height="350" /></p>
+<p><img align="center" alt="" src="https://github.com/Alexluu13/Pico-8-alfa/blob/master/Pico-8.png"/></p>
 
 PICO-8 est une console imaginaire dans laquelle vous pouvez aussi bien développer votre jeu que jouer à ceux des autres. Il est très facile d'apprendre à créer un jeu avec PICO-8 car on peut tout faire à l'intérieur : la programmation, le dessin et même la musique !
 
