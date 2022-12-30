@@ -1,7 +1,6 @@
 # P1_Pico-8/Team_alfa
 
-<p>Premier projet collectif.</p>
-<p>Projet basé sur la création d'un jeu vidéo codé en Lua.</p> 
+<p>Ce projet collectif est basé sur la création d'un jeu vidéo codé en Lua.</p> 
 
 <p><img align="center" alt="" src="https://github.com/Alexluu13/Pico-8-alfa/blob/master/Pico-8.png" width="500" height="350" /></p>
 
